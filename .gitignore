@@ -1,0 +1,14 @@
+# Code source - NE JAMAIS PUBLIER
+*.py
+*.yaml
+*.pyc
+__pycache__/
+
+# Buildozer
+.buildozer/
+bin/
+
+# Autres
+*.log
+*.bak
+.env
